@@ -18,4 +18,4 @@ I will use synthetic sample data created using INSERT statements (e.g., ~30 memb
 I will query: most borrowed books/authors, overdue loans, and book availability. These insights help track usage trends and manage inventory.
 
 5) GitHub Repository
-https://github.com/manmeet-1195/CS1103-Project/new/main
+https://github.com/manmeet-1195/CS1103-Project
